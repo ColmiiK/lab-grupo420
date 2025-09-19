@@ -59,3 +59,16 @@ i️ La documentación completa está en la Wiki:
 
 #### PR resuelta
 <img width="639" height="821" alt="image" src="https://github.com/user-attachments/assets/8b44c0c5-dad8-4da0-8349-abfb723aad60" />
+
+### 8. Tag y release
+
+#### Release publicada
+<img width="904" height="442" alt="image" src="https://github.com/user-attachments/assets/ef0721b6-e2e7-48cd-817c-68d10ee8c228" />
+
+#### Milestone v1.1.0 con futuras issues
+<img width="926" height="273" alt="image" src="https://github.com/user-attachments/assets/03ecbbf4-84cf-4b3b-9b3a-0b6589e6d4df" />
+
+### 9. Contribución externa
+
+#### PR externo fusionado
+<img width="919" height="783" alt="image" src="https://github.com/user-attachments/assets/e1c1b054-8a50-4cbc-ba93-3bc3fa6b3e35" />
