@@ -29,13 +29,12 @@ jobs:
       - name: Check for empty files
         run: |
           echo "Checking for empty files..."
-          FILES=$(find . -empty | grep -v "./.git/")
+          FILES=$(find . -type f -empty | grep -v "./.git/")
           if [ -n "$FILES" ]; then
             echo "ERROR: empty files found:"
             echo "$FILES"
             exit 1
           else
             echo "No empty files found."
-            exit 0
           fi
 
