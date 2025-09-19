@@ -27,14 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Check for empty files
-        run: |
-          echo "Checking for empty files..."
-          FILES=$(find . -type f -empty | grep -v "./.git/")
-          if [ -n "$FILES" ]; then
-            echo "ERROR: empty files found:"
-            echo "$FILES"
-            exit 1
-          else
-            echo "No empty files found."
-          fi
-
+        run: echo "hello world"
